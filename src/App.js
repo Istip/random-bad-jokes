@@ -12,7 +12,11 @@ const App = () => {
 
   return (
     <div className='container'>
-      <h1>JOKE</h1>
+      <h1>
+        JOKE
+        <br />
+        <span>Just a random 💩 joke:</span>
+      </h1>
       <div className='box' onClick={fetchJoke}>
         <p>{joke === "" ? "Click to load a joke!" : joke}</p>
       </div>
