@@ -1,2 +1,1 @@
-Random Joke generator fetching from API + badass **clamp()** css usage.
-Kinda 💩 joke tho.
+Responsive, random geek joke generator with **clamp()** @CSS to create responsivity without media queries + **React** fetching.

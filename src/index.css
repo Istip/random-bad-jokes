@@ -21,7 +21,7 @@ h1 {
 }
 
 p {
-  font-size: clamp(1.2em, -1em + 4.2vw, 1.8em);
+  font-size: clamp(1.2em, -1em + 3.2vw, 1.8em);
   line-height: 1.5;
 }
 
@@ -46,7 +46,6 @@ p {
 
 .box {
   color: #21202c;
-  cursor: pointer;
   margin: 0 clamp(3em, -3em + 20vw, 18em);
   padding: 32px;
   background-color: #f1f1f1;
